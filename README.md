@@ -77,7 +77,7 @@ himanshu = {
 
 ---
 
-### ❤️ [Heart Disease Prediction Web App](https://github.com/thehimanshumodi/heart_disease_streamlit)
+### ❤️ [Heart Disease Prediction Web App](https://github.com/thehimanshumodi/heart-disease-streamlit)
 > ML model to predict heart disease risk from structured medical data
 
 - ⚙️ **Feature Engineering** & preprocessing for improved model accuracy
