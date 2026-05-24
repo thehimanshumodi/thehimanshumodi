@@ -55,7 +55,7 @@ himanshu = {
 
 ## 🚀 Featured Projects
 
-### 🤖 [ML Knowledge Assistant — RAG-Based AI System](https://github.com/thehimanshumodi)
+### 🤖 [ML Knowledge Assistant — RAG-Based AI System](https://github.com/thehimanshumodi/ML-AI-Assistant)
 > An intelligent Q&A system that answers Machine Learning queries using Retrieval-Augmented Generation
 
 - 🔍 **Semantic Search** via FAISS vector database for efficient document retrieval
@@ -77,7 +77,7 @@ himanshu = {
 
 ---
 
-### ❤️ [Heart Disease Prediction Web App](https://github.com/thehimanshumodi)
+### ❤️ [Heart Disease Prediction Web App](https://github.com/thehimanshumodi/heart_disease_streamlit)
 > ML model to predict heart disease risk from structured medical data
 
 - ⚙️ **Feature Engineering** & preprocessing for improved model accuracy
